@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9VJ2BtK9PE0H0ks9jjz0HfB+QPNT/lvdCA3dq60pZpPPAeEcDo4LoRhlVPmuU0cyUOVQBvO+atN5rKchMTXc9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kayah\\source\\repos\\FinalProject\\DataAccsess\\DataAccsess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayah\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kayah\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
