@@ -58,3 +58,5 @@ C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\runti
 C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.dll
 C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
