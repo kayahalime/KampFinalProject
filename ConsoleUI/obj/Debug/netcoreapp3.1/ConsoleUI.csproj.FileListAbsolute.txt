@@ -60,3 +60,10 @@ C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataA
 C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
 C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Gremlin.Net.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Polly.dll

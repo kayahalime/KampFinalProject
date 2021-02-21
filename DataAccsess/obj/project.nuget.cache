@@ -1,9 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "9YOgnxyN5eDga3Y4kp6h9Sj8O8TjY2Q8V54jYmCan1XjN0Ms0SUxaT4cS51NK5ba3FLmZi94iHG+Sj67ZLe+8A==",
+  "dgSpecHash": "GA5wC4GE5bksjVqF+CbLKmApgFOrL9YWe3/EPgzDb9/BXZQMwNRqbOEp749J9m3kJ/Gh1s4RDyE/HRv7dpWnUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\kayah\\source\\repos\\FinalProject\\DataAccsess\\DataAccess.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\kayah\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
+    "C:\\Users\\kayah\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.0.0\\autofac.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\kayah\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
+    "C:\\Users\\kayah\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\kayah\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\kayah\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\kayah\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\kayah\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -62,6 +67,7 @@
     "C:\\Users\\kayah\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\kayah\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\kayah\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "C:\\Users\\kayah\\.nuget\\packages\\system.diagnostics.tracesource\\4.3.0\\system.diagnostics.tracesource.4.3.0.nupkg.sha512",
     "C:\\Users\\kayah\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\kayah\\.nuget\\packages\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\kayah\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
@@ -117,5 +123,16 @@
     "C:\\Users\\kayah\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\kayah\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Core, Autofac.Extensions.DependencyInjection (>= 6.1.0) öğesine bağımlı ancak Autofac.Extensions.DependencyInjection 6.1.0 bulunamadı. Yaklaşık bir en iyi eşleşme olan Autofac.Extensions.DependencyInjection 7.0.0 çözümlendi.",
+      "libraryId": "Autofac.Extensions.DependencyInjection",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }
