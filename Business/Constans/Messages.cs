@@ -1,6 +1,7 @@
 ﻿using Entities.Concrete;
 using System;
 using System.Collections.Generic;
+using System.Runtime.Serialization;
 using System.Text;
 
 namespace Business.Constans
@@ -15,5 +16,6 @@ namespace Business.Constans
         public static string ProductNameAlreadyExits = "Bu isimde zaten başka bir ürün var";
         public static string CategoryLimitExceded = "Kategori limiti aşıldığı için yeni ürün eklenmiyor";
 
+        public static SerializationInfo AuthorizationDenied { get; internal set; }
     }
 }

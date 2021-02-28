@@ -67,3 +67,9 @@ C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autof
 C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
 C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Gremlin.Net.dll
 C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+C:\Users\kayah\source\repos\FinalProject\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll

@@ -73,3 +73,4 @@ C:\Users\kayah\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Castle.C
 C:\Users\kayah\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\FluentValidation.dll
 C:\Users\kayah\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Gremlin.Net.dll
 C:\Users\kayah\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\kayah\source\repos\FinalProject\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
