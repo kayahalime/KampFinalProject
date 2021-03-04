@@ -17,5 +17,6 @@ namespace Business.Constans
         public static string CategoryLimitExceded = "Kategori limiti aşıldığı için yeni ürün eklenmiyor";
 
         public static SerializationInfo AuthorizationDenied { get; internal set; }
+        public static string ProductUpdated { get; internal set; }
     }
 }

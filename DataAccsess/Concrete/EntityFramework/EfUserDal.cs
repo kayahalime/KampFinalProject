@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using Core.DataAccess.EntityFramework;
 using Core.Entities.Concrete;
 using DataAccess.Abstract;
 using Entities.Concrete;
-using System.Linq;
+
 
 namespace DataAccess.Concrete.EntityFramework
 {
@@ -16,10 +17,10 @@ namespace DataAccess.Concrete.EntityFramework
             using (var context = new NorthwindContext())
             {
                 var result = from operationClaim in context.OperationClaims
-                             join userOperationClaim in context.UserOperationClaim
-                                 on operationClaim.OperationClaimId equals userOperationClaim.UserOperationClaimId
+                             join userOperationClaim in context.UserOperationClaims
+                                 on operationClaim.OperationClaimId equals userOperationClaim.OperationClaimId
                              where userOperationClaim.UserId == user.UserId
-                             select new OperationClaim { OperationClaimId = operationClaim.OperationClaimId, Name = operationClaim.Name };
+                             select new OperationClaim { OperationClaimId = operationClaim.OperationClaimId, OperationClaimName = operationClaim.OperationClaimName };
                 return result.ToList();
 
             }

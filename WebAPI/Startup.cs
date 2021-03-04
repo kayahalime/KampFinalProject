@@ -21,6 +21,7 @@ using Core.Utilities.Security.JWT;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using Core.Utilities.Security.Encryption;
+using Core.DependencyResolvers;
 
 namespace WebAPI
 {
@@ -56,7 +57,10 @@ namespace WebAPI
                         IssuerSigningKey = SecurityKeyHelper.CreateSecurityKey(tokenOptions.SecurityKey)
                     };
                 });
-            ServiceTool.Create(services);
+            services.AddDependencyResolvers(new ICoreModule[]
+            {
+                new CoreModule()
+            });
 
         }
 
